@@ -3,7 +3,7 @@
   "name": "module-billing-stripe",
   "display_name": "Billing Stripe",
   "description": "Stripe gateway adapter for the provider-neutral Billing Payments module.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "adapter",
   "provider": "Liberu\\Billing\\Stripe\\StripeServiceProvider",
   "requires": {
